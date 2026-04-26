@@ -1,0 +1,6 @@
+venv/
+AI_DATA_ANALYST/venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
