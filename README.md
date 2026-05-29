@@ -109,8 +109,3 @@ Predict future values and support data-driven business decisions. :contentRefere
 https://ai-data-analyst-b5ve.onrender.com
 
 ---
-
-## 👨‍💻 Authors
-
-**Thrived Sai**  
-**Shrihari**
